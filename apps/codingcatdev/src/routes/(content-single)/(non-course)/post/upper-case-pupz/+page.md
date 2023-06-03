@@ -10,7 +10,7 @@ hashnode:
 published: draft
 slug: 2023-databases-for-serverless
 start: May 16, 2023
-title: Firebase App Check
+title: Upper Case Pups no - 
 youtube: https://youtu.be/bpTw4aMxCU8
 ---
 
